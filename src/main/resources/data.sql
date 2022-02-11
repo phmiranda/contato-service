@@ -1,0 +1,5 @@
+INSERT INTO contatos(id, celular, documento, email, nome, telefone, telefone_recado) VALUES (1, '61968729456', '14339051160', 'aldo.marcos@email.com.br', 'Aldo Antônio Marcos da Costa', '6125784638', '6129695239');
+INSERT INTO contatos(id, celular, documento, email, nome, telefone, telefone_recado) VALUES (2, '61975837562', '87414101142', 'barbara.costa@email.com.br', 'Bárbara Vicente da Costa', '6129958497', '6134826623');
+INSERT INTO contatos(id, celular, documento, email, nome, telefone, telefone_recado) VALUES (3, '61973612545', '90578919133', 'fernando.martins@email.com.br', 'Fernando Vasconcelos Martis', '6135743547', '6136451764');
+INSERT INTO contatos(id, celular, documento, email, nome, telefone, telefone_recado) VALUES (4, '61973481049', '23044279100', 'karla.dias@email.com.br', 'Karla Mineguelli Dias', '6121157353', '6123811726');
+INSERT INTO contatos(id, celular, documento, email, nome, telefone, telefone_recado) VALUES (5, '61975162797', '88205067180', 'vicente.santana@email.com.br', 'Vicente Henrique da Santana', '6135733488', '6125126144');
